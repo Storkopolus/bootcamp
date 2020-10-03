@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Ben Stork</title>
+</head>
+
+<body>
+  <figure>
+    <a target="_blank" href="Images/Ben.jpg">
+    <img src="Images/Ben.jpg" alt="Ben & Wife" width="500">
+    </a>
+    <figcaption><em>Ben & Wife</em></figcaption>
+  </figure>
+
+  <p>
+    I am a husband and father of two.  I enjoy spending time with my kids, going to concerts and eating and cooking good food. I am pursuing a career in data analysis and will have my bootcamp completed in January of 2021.
+
+  </p>
+
+  <ul>
+    <li><strong>Email:</strong> <a href="#">bstork@gmail.com</a></li>
+    <li><strong>Github:</strong> <a href="#">Storkopolus</a></li>
+  </ul>
+
+  <table border="1">
+    <thead>
+      <tr>
+        <th colspan="4">Ben's Favorite Bands</th>
+      </tr>
+      <tr>
+        <th>Ranking</th>
+        <th>Band</th>
+        <th>Seen In Concert</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1st</td>
+        <td>Beatles</td>
+        <td>No</td>
+      </tr>
+      <tr>
+        <td>2nd</td>
+        <td>Bombay Bicycle Club</td>
+        <td>Yes</td>
+      </tr>
+      <tr>
+        <td>3rd</td>
+        <td>Incubus</td>
+        <td>Yes</td>
+      </tr>
+      <tr>
+        <td>4th</td>
+        <td>Spoon</td>
+        <td>Yes</td>
+      </tr>
+      <tr>
+        <td>5th</td>
+        <td>We are Scientists</td>
+        <td>Yes</td>
+      </tr>
+    </tbody>
+  </table>
+
+
+
+</body>
+
+</html>
